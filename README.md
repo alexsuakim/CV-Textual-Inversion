@@ -22,3 +22,4 @@
   1) Textual Inversion with Negative Prompt Implementation
      - input directory: improvement-input
      - output directory: improvement-output
+     - Method: Using webui extension
