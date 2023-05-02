@@ -8,6 +8,8 @@
       - program file: textual_inversion_ChanChunLam.ipynb
       - outputs directory: elephant_steps
       - analysis directory: plot
+      
+      the original code of implementing Textual Inversion using Latent diffusion was from the original paper. 
 
 2. Soo-ah Kim
   1) Textual Inversion using Stable Diffusion
@@ -17,6 +19,9 @@
       - program file: textual_inversion_stable_diffusion.ipynb
       - outputs directory: TI stable diffusion outputs
       - analysis directory: plots-SD
+      
+      the original code of implementing Textual Inversion using Stable Diffusion is from:         https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb
+      the hyperparameters were changed to improve and compare the results.
 
 3. Kaustubh Nigam
   1) Textual Inversion with Negative Prompt Implementation
