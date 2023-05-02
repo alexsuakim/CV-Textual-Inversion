@@ -27,4 +27,4 @@
   1) Textual Inversion with Negative Prompt Implementation
      - input directory: improvement-input
      - output directory: improvement-output
-     - Method: Using webui extension
+     - Method: https://huggingface.co/datasets/Nerfgun3/bad_prompt/blob/main/bad_prompt_version2.pt was used to add the negative embeddings the original code.
